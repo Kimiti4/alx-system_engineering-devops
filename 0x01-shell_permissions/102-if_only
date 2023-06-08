@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --from=guillame betty school
+chown --from=guillaume betty school
